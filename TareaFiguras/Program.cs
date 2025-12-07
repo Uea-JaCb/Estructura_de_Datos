@@ -85,14 +85,14 @@ namespace FigurasGeometricas
             Triangulo miTriangulo = new Triangulo(3.0, 4.0);
 
             // Visualización de resultados para el Cuadrado
-            Console.WriteLine("\nRESULTADOS DEL CUADRADO (Lado = 5):");
+            Console.WriteLine("\nRESULTADOS DEL CUADRADO (Valor Lado = 5):");
             // Invoca al método para obtener el área
             Console.WriteLine("Área: " + miCuadrado.CalcularArea());
             // Invoca al método para obtener el perímetro
             Console.WriteLine("Perímetro: " + miCuadrado.CalcularPerimetro());
 
             // Visualización de resultados para el Triángulo
-            Console.WriteLine("\nRESULTADOS DEL TRIÁNGULO (Base = 3, Altura = 4):");
+            Console.WriteLine("\nRESULTADOS DEL TRIÁNGULO (Valor Base = 3, valor Altura = 4):");
             // Invoca al método para obtener el área
             Console.WriteLine("Área: " + miTriangulo.CalcularArea());
             // Invoca al método para obtener el perímetro
