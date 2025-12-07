@@ -1,0 +1,14 @@
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\bin\Debug\net10.0\TareaFiguras.exe
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\bin\Debug\net10.0\TareaFiguras.deps.json
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\bin\Debug\net10.0\TareaFiguras.runtimeconfig.json
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\bin\Debug\net10.0\TareaFiguras.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\bin\Debug\net10.0\TareaFiguras.pdb
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.AssemblyInfoInputs.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.AssemblyInfo.cs
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.csproj.CoreCompileInputs.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\refint\TareaFiguras.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.pdb
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.genruntimeconfig.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\ref\TareaFiguras.dll
