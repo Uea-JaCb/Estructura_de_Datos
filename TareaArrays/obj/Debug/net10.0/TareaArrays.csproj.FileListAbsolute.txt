@@ -1,0 +1,15 @@
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\bin\Debug\net10.0\TareaArrays.exe
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\bin\Debug\net10.0\TareaArrays.deps.json
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\bin\Debug\net10.0\TareaArrays.runtimeconfig.json
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\bin\Debug\net10.0\TareaArrays.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\bin\Debug\net10.0\TareaArrays.pdb
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.AssemblyInfoInputs.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.AssemblyInfo.cs
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.csproj.CoreCompileInputs.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.sourcelink.json
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\refint\TareaArrays.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.pdb
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\TareaArrays.genruntimeconfig.cache
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaArrays\obj\Debug\net10.0\ref\TareaArrays.dll

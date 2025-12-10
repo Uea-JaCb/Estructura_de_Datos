@@ -12,3 +12,4 @@ D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\De
 D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.pdb
 D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.genruntimeconfig.cache
 D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\ref\TareaFiguras.dll
+D:\Users\xavil\Documents\Tercer Semestre\Estructura_de_Datos\TareaFiguras\obj\Debug\net10.0\TareaFiguras.sourcelink.json
