@@ -1,0 +1,15 @@
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\bin\Debug\net10.0\Agenda.exe
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\bin\Debug\net10.0\Agenda.deps.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\bin\Debug\net10.0\Agenda.runtimeconfig.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\bin\Debug\net10.0\Agenda.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\bin\Debug\net10.0\Agenda.pdb
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.AssemblyInfo.cs
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.sourcelink.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\refint\Agenda.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.pdb
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\Agenda.genruntimeconfig.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\Agenda\obj\Debug\net10.0\ref\Agenda.dll
