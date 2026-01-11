@@ -1,0 +1,15 @@
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\bin\Debug\net10.0\EjerciciosSemana5.exe
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\bin\Debug\net10.0\EjerciciosSemana5.deps.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\bin\Debug\net10.0\EjerciciosSemana5.runtimeconfig.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\bin\Debug\net10.0\EjerciciosSemana5.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\bin\Debug\net10.0\EjerciciosSemana5.pdb
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.AssemblyInfoInputs.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.AssemblyInfo.cs
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.csproj.CoreCompileInputs.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.sourcelink.json
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\refint\EjerciciosSemana5.dll
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.pdb
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\EjerciciosSemana5.genruntimeconfig.cache
+C:\Users\DerKaiser\Documents\Estructura_de_Datos\EjerciciosSemana5\obj\Debug\net10.0\ref\EjerciciosSemana5.dll
