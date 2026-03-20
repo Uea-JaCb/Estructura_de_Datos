@@ -1,0 +1,15 @@
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\bin\Debug\net10.0\EjercicioSemana14.exe
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\bin\Debug\net10.0\EjercicioSemana14.deps.json
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\bin\Debug\net10.0\EjercicioSemana14.runtimeconfig.json
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\bin\Debug\net10.0\EjercicioSemana14.dll
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\bin\Debug\net10.0\EjercicioSemana14.pdb
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.AssemblyInfoInputs.cache
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.AssemblyInfo.cs
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.csproj.CoreCompileInputs.cache
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.sourcelink.json
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.dll
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\refint\EjercicioSemana14.dll
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.pdb
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\EjercicioSemana14.genruntimeconfig.cache
+D:\Users\xavil\Documents\Trabajos de Estructura de Datos\Estructura_de_Datos\EjercicioSemana14\obj\Debug\net10.0\ref\EjercicioSemana14.dll
